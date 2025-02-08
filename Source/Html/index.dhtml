@@ -1,0 +1,65 @@
+<!--@ include header @-->
+
+<!-- TODO: add loading animation to the website -->
+<div class="circle"></div>
+<div class="first-page">
+    <div class="main-content">
+        <img class="logo" src="./Assets/Images/logo.svg" />
+        <div class="introduction">A leading web development agency specialized in custom web design</div>
+    </div>
+
+    <button><img src="./Assets/Images/arrow-down.svg"/></button>
+    <video muted autoplay loop src="./Assets/videos/computer-typing.mp4"></video>
+    <!-- <div class="background-blur"></div> -->
+</div>
+
+<div class="top-bar">
+    <img class="logo" src="./Assets/Images/logo.svg" />
+</div>
+<div class="second-page">
+    
+    <div class="bean-1"></div>
+    <div class="bean-2"></div>
+
+    <div class="content">
+        <div>Our Services</div>
+        <div>The process that makes your life easier</div>
+        <div class="services">
+            <div>
+                <img src="./Assets/Images/computer.png" alt="computer">
+                <div>Web<br> Development</div>
+                <hr>
+                <div>we craft engaging online experiences that captivate audiences and drive results.</div>
+            </div>
+            <div>
+                <img src="./Assets/Images/phone.png" alt="phone">
+                <div>Mobile<br> Development</div>
+                <hr>
+                <div>You ask for it. We make it real, we turn your needs into apps with brilliance.</div>
+            </div>
+            <div>
+                <img src="./Assets/Images/prush.png" alt="prush">
+                <div>Graphic<br> Design</div>
+                <hr>
+                <div>With creativity and inspiration we bring your ideas to life and create astonishing visuals.</div>
+            </div>
+        </div>
+        <div class="contact">
+            <img src="./Assets/Images/rocket.png" alt="rocket">
+            <div>
+                <div>Reach out!</div>
+                <a href="https://www.instagram.com/swift_dash" target="_blank">
+                    <img src="./Assets/Images/instagram.svg" alt="instagram logo">
+                </a>
+                <a href="https://www.linkedin.com/company/swiftdash/" target="_blank">
+                    <img src="./Assets/Images/linkedIn.svg" alt="linkedIn logo">
+                </a>
+                <a href="mailTo:contact@swiftdash.tech" target="_blank">
+                    <img src="./Assets/Images/email.svg" alt="email">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--@ include footer @-->
